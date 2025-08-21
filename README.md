@@ -51,8 +51,9 @@ All the notebooks here are based on a structured tutorial covering both theory a
 
 ## 🛠️ Getting Started
 
-### 1. Clone the repository  
-```bash
+### 1. Clone the repository 
+
+https://github.com/pawandwivedi1234/Numpy
 
 
 🎯 Why NumPy?
@@ -65,5 +66,5 @@ Essential for data science, AI/ML, and scientific simulations
 📌 Author
 
 👤 Your Name
-
-GitHub:
+Pawan Dwivedi
+GitHub:https://github.com/pawandwivedi1234
