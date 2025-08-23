@@ -63,8 +63,7 @@ Efficient numerical computations
 Foundation for Pandas, SciPy, Scikit-Learn, TensorFlow, PyTorch
 
 Essential for data science, AI/ML, and scientific simulations
-📌 Author
 
-👤 Your Name
-Pawan Dwivedi
+📌 Author
+👤 Pawan Dwivedi
 GitHub:https://github.com/pawandwivedi1234
